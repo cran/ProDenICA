@@ -30,7 +30,7 @@ Bach, F. and Jordan, M. (2002). Kernel independent component analysis,
 Journal of Machine Learning Research 3: 1-48\cr
 Hastie, T., Tibshirani, R. and Friedman, J. (2009) Elements of
 Statistical Learning (2nd edition), Springer.\cr
-\url{http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf}
+\url{https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf}
 }
 \author{
 Trevor Hastie

@@ -48,7 +48,7 @@ function(x, k=p, W0=NULL, whiten=FALSE, maxit = 20, thresh = 1e-7, restarts = 0,
 			W0 <- W1
 			flist0 <- flist
 		}
-		restarts <- restarts - 1.
+		restarts <- restarts - 1
 	}
 ###Here is the loop
 	nit <- 0

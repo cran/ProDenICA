@@ -1,4 +1,7 @@
 import("gam")
+importFrom("stats", "dnorm", "dt", "dunif", "fitted", "poisson",
+             "predict", "residuals", "rmultinom", "rnorm", "rt", "runif",
+           "smooth.spline")
 export(G0,G1,GPois,ICAorthW,ProDenICA,amari,d.gaussmix,djordan,dmix.dexp,modulus,r.gaussmix,rjordan,rmix.dexp,mixmat)
 
 S3method("plot","ProDenICA")

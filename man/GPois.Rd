@@ -44,7 +44,7 @@ Hastie, T. and Tibshirani, R. (2003) \emph{Independent Component Analysis
   Cambridge, MA. pp 649-656\cr
 Hastie, T., Tibshirani, R. and Friedman, J. (2009) Elements of
 Statistical Learning (2nd edition), Springer.\cr
-\url{http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf}
+\url{https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf}
 }
 \author{
 Trevor Hastie and Rob Tibshirani
